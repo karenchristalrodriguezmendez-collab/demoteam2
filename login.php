@@ -6,7 +6,7 @@
     <title>Login Page</title>
 </head>
 <body>
-    <h2>Verificate</h2>
+    <h2>Autentificate</h2>
     <form action="index.php" method="POST">
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required><br><br>
