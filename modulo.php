@@ -9,7 +9,7 @@
 
   <h1>Modulo Productos</h1>
 
-  <form action="procesar_productos.php" method="post">
+  <form action="index.php" method="post">
 
     <label for="nombre">Nombre del Producto:</label>
     <input type="text" id="nombre" name="nombre" required><br><br>
