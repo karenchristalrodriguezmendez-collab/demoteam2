@@ -7,7 +7,7 @@
 </head>
 <body>
     <h2>Verificate</h2>
-    <form action="authenticate.php" method="POST">
+    <form action="index.php" method="POST">
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required><br><br>
         
@@ -17,10 +17,6 @@
         <input type="submit" value="Login">
         
     </form>
-
-    <form action="index.php" method="POST">
-        <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required><br><br>
 
 </body>
 </html>

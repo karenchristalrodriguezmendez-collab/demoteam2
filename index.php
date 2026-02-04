@@ -11,6 +11,7 @@
     <h2>Equipo Ecoskin</h2>
     <br>
     <ul>
-        <li><a href="./">modulo de productos</a></li>
+        <li><a href="./">Modulo de productos</a></li>
+         <li><a href="./">Acerca de</a></li>
 </body>
 </html>
